@@ -31,7 +31,7 @@ h1, h2 {
   color: black;
 }
 
-p {
+.caption {
   text-align: center;
 }
 
@@ -159,6 +159,7 @@ footer {
 .thumbnail {
   width: 100%;
   overflow: hidden;
+  background-color: #EEDA6A;
 }
 
 img {
@@ -170,9 +171,17 @@ img:hover {
 }
 
 .contact-image {
-  max-width: 100px;
+  max-width: 10%;;
 }
 
 .thumbnail-contact {
   width: 100px;
+}
+
+.row {
+  text-align: center;
+}
+
+.hello {
+  text-align: center;
 }
