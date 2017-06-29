@@ -185,3 +185,12 @@ img:hover {
 .hello {
   text-align: center;
 }
+
+.about {
+  text-align: center;
+}
+
+.container-about {
+  text-align: center;
+  margin: 0 auto;
+}
